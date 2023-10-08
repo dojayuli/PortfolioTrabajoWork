@@ -1,4 +1,4 @@
 # PortfolioWorketech
 Trabajo de portfolio de worketech
-![] (https://github.com/dojayuli/PortfolioWorketech/blob/main/portfolio.png)
+https://github.com/dojayuli/PortfolioTrabajoWork/blob/main/portfolio.png
 
